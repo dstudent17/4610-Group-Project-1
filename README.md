@@ -10,3 +10,13 @@
 3. Minathi Mekala
 4. Ngoc Nguyen
 5. Anthony Ramage
+
+## Problem Description 
+
+## Data Model 
+
+## Data Dictionary 
+
+## Queries 
+
+## Database information
