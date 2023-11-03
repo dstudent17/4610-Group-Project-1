@@ -5,7 +5,7 @@
 
 # Team Members: 
 
-1. David Tran (https://github.com/ngocpn1/MISTProject1)
+1. David Tran [@dstudent17](https://github.com/dstudent17/4610-Group-Project-1)
 2. Nick Kalenik [@NickKalenik](https://github.com/NickKalenik/MIST4610GroupProject1)
 3. Minathi Mekala [@minathi11](https://github.com/minathi11/MISTGroupProject1)
 4. Ngoc Nguyen [@ngocpn1](https://github.com/ngocpn1/MISTProject1)
